@@ -102,3 +102,7 @@ Atlantic Technological University (ATU), Galway, Ireland
 Email: shahid.hussain@atu.ie  
 
 For questions, feedback, or collaboration, feel free to contact the authors.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.

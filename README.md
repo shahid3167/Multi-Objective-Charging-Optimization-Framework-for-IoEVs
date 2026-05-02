@@ -8,6 +8,12 @@ The framework evaluates:
 - Aggregated community-level charging
 - Communication performance between EV and EVSE
 
+## IoT-Enabled Cyber-Physical Layer
+
+![IoT-Enabled Cyber Physical Layer](Results/CPS Layer.jpg)
+
+Figure: IoT-enabled cyber-physical layer of the MOCF-IoEVs framework, illustrating the integration of real-time sensing, ISO/IEC 15118-based communication, and multi-objective optimization for coordinated EV charging.
+
 ## Features
 
 - Multi-objective optimization for EV charging (cost and load balancing)

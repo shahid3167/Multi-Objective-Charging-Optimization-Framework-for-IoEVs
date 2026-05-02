@@ -62,6 +62,20 @@ Key outcomes include:
 
 Detailed results and analysis are provided in the associated research paper.
 
+## Example Output
+
+When running the framework, the following output is displayed:
+
+```
+MOCF-IoEVs Framework Running...
+
+Running individual charging scenario...
+Running aggregated charging scenario...
+Running communication model...
+```
+
+This confirms that all components of the framework are executed successfully.
+
 ## Data
 Place your dataset inside the `data/` folder before running the code.
 

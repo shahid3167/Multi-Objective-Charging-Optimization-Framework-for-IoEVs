@@ -13,7 +13,7 @@ The framework evaluates:
 <p align="center">
 <img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/CPS%20Layer.jpg" width="900" height="700">
 
-<p align="center">
+<p align="left">
 IoT-enabled cyber physical layer of the proposed MOCF-IoEV
 
 ## Features
@@ -71,7 +71,7 @@ Key outcomes include:
 <p align="center">
 <img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/AgregatedLoadCost.jpg" width="700" height="500">
 
-<p align="center">
+<p align="left">
 Charging load and cost across different charging methods and three EV penetration levels in
 aggregated community charging scenarios
 

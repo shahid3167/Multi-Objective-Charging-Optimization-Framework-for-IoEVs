@@ -1,1 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
 
+[project]
+name = "mocf-ioev"
+version = "0.1.0"
+description = "Multi-objective charging optimization framework for Internet of Electric Vehicles (IoEVs)"
+authors = [
+    {name = "Sahbi Boubaker", email = "sboubaker@uj.edu.sa"},
+    {name = "Shahid Hussain", email = "shahid.hussain@atu.ie"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "scikit-learn"
+]
+
+[project.scripts]
+mocf-ioev = "mocf_ioev.main:main"

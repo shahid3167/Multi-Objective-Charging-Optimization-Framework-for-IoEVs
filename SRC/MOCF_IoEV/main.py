@@ -1,9 +1,14 @@
+from mocf_ioev.individual_charging import run_individual
+from mocf_ioev.aggregated_charging import run_aggregated
+from mocf_ioev.communication_model import run_communication
+
+
 def main():
     print("MOCF-IoEVs Framework Running...\n")
 
-    print("1. Running Individual Charging Scenario")
-    print("2. Running Aggregated Charging Scenario")
-    print("3. Running Communication Model")
+    run_individual()
+    run_aggregated()
+    run_communication()
 
 
 if __name__ == "__main__":

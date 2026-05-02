@@ -18,13 +18,23 @@ The framework evaluates:
 ## Repository Structure
 
 ```
-src/mocf_ioev/
-├── individual_charging.py   # Individual charging scenarios
-├── aggregated_charging.py  # Aggregated charging scenarios
-├── communication_model.py  # Communication model
-├── main.py                 # Main execution file
+MOCF-IoEVs/
+├── src/
+│   └── mocf_ioev/
+│       ├── __init__.py
+│       ├── individual_charging.py
+│       ├── aggregated_charging.py
+│       ├── communication_model.py
+│       └── main.py
+├── notebooks/          # Jupyter notebooks for experiments and analysis
+├── data/               # Dataset files (to be placed here)
+├── results/            # Output results and plots
+├── pyproject.toml      # Project configuration and dependencies
+├── requirements.txt    # Python dependencies
+├── .gitignore          # Files to ignore in version control
+├── LICENSE             # License information
+└── README.md           # Project documentation
 ```
-
 ## How to Run
 
 To execute the full MOCF-IoEVs framework, open and run:

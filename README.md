@@ -10,9 +10,11 @@ The framework evaluates:
 
 ## IoT-Enabled Cyber-Physical Layer
 
-![IoT-Enabled Cyber Physical Layer](Results/CPS Layer.jpg)
+<p align="center">
+<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/CPS%20Layer.jpg" width="700" height="500">
 
-Figure: IoT-enabled cyber-physical layer of the MOCF-IoEVs framework, illustrating the integration of real-time sensing, ISO/IEC 15118-based communication, and multi-objective optimization for coordinated EV charging.
+<p align="center">
+IoT-enabled cyber physical layer of the proposed MOCF-IoEV
 
 ## Features
 

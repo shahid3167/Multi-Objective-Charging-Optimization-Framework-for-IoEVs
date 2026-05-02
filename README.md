@@ -68,14 +68,6 @@ Key outcomes include:
 - Stable performance across different EV penetration levels  
 - Communication delay within acceptable smart grid standards  
 
-<p align="center">
-<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/AgregatedLoadCost.jpg" width="700" height="500">
-
-<p align="left">
-Charging load and cost across different charging methods and three EV penetration levels in
-aggregated community charging scenarios
-
-
 Detailed results and analysis are provided in the associated research paper.
 
 ## Example Output
@@ -90,7 +82,12 @@ Running aggregated charging scenario...
 Running communication model...
 ```
 
-This confirms that all components of the framework are executed successfully.
+<p align="center">
+<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/AgregatedLoadCost.jpg" width="900" height="700">
+
+<p align="left">
+Charging load and cost across different charging methods and three EV penetration levels in
+aggregated community charging scenarios
 
 ## Data
 

@@ -17,3 +17,15 @@ src/mocf_ioev/
 ├── communication_model.py  # Communication model
 ├── main.py                 # Main execution file
 ```
+
+## How to Run
+Open `main.py` and run the script.
+
+## Data
+Place your dataset inside the `data/` folder before running the code.
+
+## Citation
+
+If you use this work, please cite the following manuscript (currently under review):
+
+S. Boubaker, S. Hussain, et al., "An IoT-Enabled Multi-Objective Charging Optimization Framework for IoEVs Based on the ISO-IEC 15118 Standard," 2026.

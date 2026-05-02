@@ -11,7 +11,7 @@ The framework evaluates:
 ## IoT-Enabled Cyber-Physical Layer
 
 <p align="center">
-<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/CPS%20Layer.jpg" width="700" height="500">
+<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/CPS%20Layer.jpg" width="900" height="700">
 
 <p align="center">
 IoT-enabled cyber physical layer of the proposed MOCF-IoEV

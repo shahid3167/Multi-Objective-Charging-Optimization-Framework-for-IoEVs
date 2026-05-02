@@ -8,6 +8,13 @@ The framework evaluates:
 - Aggregated community-level charging
 - Communication performance between EV and EVSE
 
+## Features
+
+- Multi-objective optimization for EV charging (cost and load balancing)
+- Individual household-level charging analysis
+- Aggregated community-level charging evaluation
+- Communication model for EV–EVSE interaction and delay analysis
+
 ## Repository Structure
 
 ```

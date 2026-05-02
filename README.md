@@ -91,6 +91,7 @@ S. Boubaker, S. Hussain, et al., "An IoT-Enabled Multi-Objective Charging Optimi
 ## Authors
 
 **Sahbi Boubaker**  
+Professor, 
 Department of Computer and Network Engineering,  
 College of Computer Science and Engineering,  
 University of Jeddah, Saudi Arabia  

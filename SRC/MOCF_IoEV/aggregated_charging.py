@@ -1,2 +1,2 @@
-def run_individual():
-    print("Running individual charging scenario...")
+def run_aggregated():
+    print("Running aggregated charging scenario...")

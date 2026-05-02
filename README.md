@@ -69,7 +69,7 @@ Key outcomes include:
 - Communication delay within acceptable smart grid standards  
 
 <p align="center">
-<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/AgregatedLoadCost.jpg" width="900" height="700">
+<img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/AgregatedLoadCost.jpg" width="700" height="500">
 
 <p align="center">
 Charging load and cost across different charging methods and three EV penetration levels in

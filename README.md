@@ -10,8 +10,6 @@ The framework evaluates:
 
 ## Repository Structure
 
-## Repository Structure
-
 ```
 src/mocf_ioev/
 ├── individual_charging.py   # Individual charging scenarios

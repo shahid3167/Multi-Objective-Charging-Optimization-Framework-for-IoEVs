@@ -87,3 +87,18 @@ If the dataset is not included in this repository, please refer to the provided 
 If you use this work, please cite the following manuscript (currently under review):
 
 S. Boubaker, S. Hussain, et al., "An IoT-Enabled Multi-Objective Charging Optimization Framework for IoEVs Based on the ISO-IEC 15118 Standard," 2026.
+
+## Authors
+
+**Sahbi Boubaker**  
+Department of Computer and Network Engineering,  
+College of Computer Science and Engineering,  
+University of Jeddah, Saudi Arabia  
+Email: sboubaker@uj.edu.sa  
+
+**Shahid Hussain**  
+Assistant Professor,  
+Atlantic Technological University (ATU), Galway, Ireland  
+Email: shahid.hussain@atu.ie  
+
+For questions, feedback, or collaboration, feel free to contact the authors.

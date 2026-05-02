@@ -39,6 +39,19 @@ This will automatically run:
 - Aggregated charging scenario  
 - Communication model  
 
+## Results
+
+The proposed MOCF-IoEVs framework demonstrates improved performance in both individual and aggregated EV charging scenarios.
+
+Key outcomes include:
+
+- Reduction in peak load compared to baseline charging strategies  
+- Lower charging cost through multi-objective optimization  
+- Stable performance across different EV penetration levels  
+- Communication delay within acceptable smart grid standards  
+
+Detailed results and analysis are provided in the associated research paper.
+
 ## Data
 Place your dataset inside the `data/` folder before running the code.
 

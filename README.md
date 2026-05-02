@@ -1,3 +1,12 @@
-# Multi-Objective-Charging-Optimization-Framework-for-IoEVs
-This repository provides the dataset and implementation code for our proposed multi-objective optimization framework for IoEVs.
-# Please note this repository is under process and soon will have all the code and results available. 
+# MOCF-IoEVs
+
+This repository provides the dataset and implementation code for the Multi-Objective Charging Framework for Internet of Electric Vehicles (MOCF-IoEVs).
+
+## Overview
+The framework evaluates:
+- Individual EV charging scenarios
+- Aggregated community-level charging
+- Communication performance between EV and EVSE
+
+## Repository Structure
+

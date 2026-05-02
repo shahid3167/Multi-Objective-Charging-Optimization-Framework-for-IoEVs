@@ -77,7 +77,10 @@ Running communication model...
 This confirms that all components of the framework are executed successfully.
 
 ## Data
-Place your dataset inside the `data/` folder before running the code.
+
+The dataset required for this framework should be placed in the `data/` folder before running the code.
+
+If the dataset is not included in this repository, please refer to the provided source or contact the author for access.
 
 ## Citation
 

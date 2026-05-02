@@ -14,7 +14,7 @@ The framework evaluates:
 <img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/CPS%20Layer.jpg" width="900" height="700">
 
 <p align="left">
-IoT-enabled cyber physical layer of the proposed MOCF-IoEV
+IoT-enabled EV battery sensing framework, showing the battery components and sensing infrastructure for monitoring and operation.
 
 ## Features
 
@@ -86,8 +86,7 @@ Running communication model...
 <img src="https://github.com/shahid3167/Multi-Objective-Charging-Optimization-Framework-for-IoEVs/blob/main/Results/AgregatedLoadCost.jpg" width="900" height="700">
 
 <p align="left">
-Charging load and cost across different charging methods and three EV penetration levels in
-aggregated community charging scenarios
+Charging load and cost across different charging methods and three EV penetration levels in aggregated community charging scenarios.
 
 ## Data
 

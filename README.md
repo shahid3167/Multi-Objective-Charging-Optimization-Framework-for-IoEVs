@@ -19,7 +19,18 @@ src/mocf_ioev/
 ```
 
 ## How to Run
-Open `main.py` and run the script.
+
+To execute the full MOCF-IoEVs framework, open and run:
+
+```python
+src/mocf_ioev/main.py
+```
+
+This will automatically run:
+
+- Individual charging scenario  
+- Aggregated charging scenario  
+- Communication model  
 
 ## Data
 Place your dataset inside the `data/` folder before running the code.

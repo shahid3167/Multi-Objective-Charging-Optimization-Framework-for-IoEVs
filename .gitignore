@@ -1,1 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Results (generated files)
+results/*.png
+results/*.jpg
+results/*.csv
+
+# Data (uncomment if your dataset is large or private)
+# data/
+
+# IDEs
+.vscode/
+.idea/

@@ -10,3 +10,8 @@ The framework evaluates:
 
 ## Repository Structure
 
+src/mocf_ioev/
+├── individual_charging.py # Individual charging scenarios
+├── aggregated_charging.py # Aggregated charging scenarios
+├── communication_model.py # Communication model
+├── main.py # Main execution file
